@@ -14,8 +14,6 @@ ul {
     margin-top: 0;
     margin-bottom: 0;
     padding-left: 0;
-
-
 }
 
 a {
@@ -291,7 +289,7 @@ margin-bottom: 72px;
 .portfolio-item {}
 
 .portfolio-picture {
- margin-bottom: 32px;
+   margin-bottom: 32px;
 }
 
 .portfolio-subtitle {
